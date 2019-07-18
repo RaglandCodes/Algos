@@ -19,4 +19,5 @@ class Solution:
                 continue
             i += 1
         
-        print(arr)
+        print(arr) 
+		
